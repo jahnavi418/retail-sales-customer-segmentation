@@ -1,0 +1,26 @@
+RETAIL SALES & CUSTOMER SEGMENTATION — KEY INSIGHTS
+=====================================================
+
+1. SALES GROWTH
+   - Sales grew from $484K (2014) to $733K (2017)
+   - 51% growth over 4 years
+
+2. CATEGORY INSIGHTS
+   - Technology is highest revenue category ($836K)
+   - Furniture has lowest profit margin despite high sales
+   - Office Supplies has best profit ratio
+
+3. CUSTOMER SEGMENTS
+   - Champions (64 customers) spend avg $9,479 each
+   - 335 At-Risk customers need immediate attention
+   - 96 Lost customers haven't bought in 559 days
+
+4. REGIONAL INSIGHTS
+   - West region leads with highest sales
+   - South region needs growth strategy
+
+5. RECOMMENDATIONS
+   - Reward Champions with loyalty programs
+   - Send win-back emails to At-Risk customers
+   - Reduce discounts on Furniture to improve margins
+   - Focus marketing budget on West & East regions
